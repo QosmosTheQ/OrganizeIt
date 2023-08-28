@@ -8,6 +8,20 @@ OrganizeIt is a simple file organization tool that helps you organize your files
 - Organize files into subfolders based on their extensions.
 - Supported file types: pictures, videos, documents, music, and others.
 
+## Installation
+
+Download the OrganizeIt file from the section of releases, version1.
+and then
+
+```bash
+chmod +x OrganizeIt 
+```
+and you can click on it or
+```bash
+./OrganizeIt
+```
+
+
 ## Prerequisites
 
 - C++ compiler with C++17 support
